@@ -1,0 +1,10 @@
+# Ignore folder named
+.idea/
+__pycache__/
+ignore/
+# Ignore files named
+.DS_Store
+# Ignore all files with the .extensions
+.o
+.log
+.env
