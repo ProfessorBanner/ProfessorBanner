@@ -10,8 +10,19 @@
 
 
 ### Medium Posts
+I am writing about:
 
-- 
+
+- Development and analysis of AI products in healthcare-related industries, such as HealthTech, MedTech, Pharma, Quality of Life, etc. 
+
+
+- Strategic management and consulting. Exploring new paradigms and infrastructure for delivering healthcare innovations. Identifying catalysing mechanisms that enable successful transformations.
+
+
+- Venture capital ecosystems and end-to-end product development.
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sergei-khrushchev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergei-khrushchev" height="30" width="40" /></a>
